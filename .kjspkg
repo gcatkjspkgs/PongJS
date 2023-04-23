@@ -1,0 +1,9 @@
+{
+    "author": "Prunoideae",
+    "description": "A Pong game implemented via PainterAPI. To activate it, left click with a custom pong pad item, or set your own item by defining `global.pongItem`.",
+    
+    "versions": [9],
+    "modloaders": ["forge", "fabric"],
+    "dependencies": [],
+    "incompatibilities": []
+}
